@@ -1,0 +1,73 @@
+{
+    "Users": [
+        {
+            "Fname": "moamen",
+            "Lname": "eltony",
+            "Email": "moameneltony12@gmail.com",
+            "Password": "100200",
+            "Telephone": "01032114633"
+        },
+        {
+            "Fname": "mohamed",
+            "Lname": "eltony",
+            "Email": "mohamedeltony12@gmail.com",
+            "Password": "100200",
+            "Telephone": "01284666656"
+        },
+        {
+            "Fname": "mohamed",
+            "Lname": "ahmed",
+            "Email": "mohamedahmed12@gmail.com",
+            "Password": "100200",
+            "Telephone": "01032114632"
+        },
+        {
+            "Fname": "mohamed",
+            "Lname": "alramaly",
+            "Email": "mohamedalramaly12@gmail.com",
+            "Password": "100200",
+            "Telephone": "01032114631"
+        },
+        {
+            "Fname": "Moamen",
+            "Lname": "abdltawab",
+            "Email": "moamenabdltawab12@gmail.com",
+            "Password": "100200",
+            "Telephone": "01032114630"
+        }
+    ],
+    "Projects": [
+        {
+            "Title": "Shelter",
+            "Details": "CatsShelter",
+            "Target": "25000",
+            "StartDate": "16/11/2025",
+            "EndDate": "30/12/2025",
+            "Owner": "moameneltony12@gmail.com"
+        },
+        {
+            "Title": "Ps",
+            "Details": "VideoGameStation",
+            "Target": "12777",
+            "StartDate": "20/11/2025",
+            "EndDate": "30/11/2025",
+            "Owner": "moameneltony12@gmail.com"
+        },
+        {
+            "Title": "Padel",
+            "Details": "NewCourt",
+            "Target": "70000",
+            "StartDate": "25/11/2025",
+            "EndDate": "30/12/2026",
+            "Owner": "moameneltony12@gmail.com"
+        },
+        {
+            "Title": "NewProject",
+            "Details": "haha",
+            "Target": "123456",
+            "StartDate": "17/11/2025",
+            "EndDate": "17/11/2025",
+            "Owner": "mohamedeltony12@gmail.com"
+        }
+    ]
+}
